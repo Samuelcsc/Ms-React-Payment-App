@@ -1,83 +1,31 @@
-.first-style {
-    background-color: brown;
-}
-
-.second-style {
-    background-color: blue;
-}
-
- .menu {
+.menu {
     padding-right: 60px;
 }
 
-#sign {
-    padding-left: 300px;
+.navv{
+    background-color: #16190e;
 }
 
-.logo {
-    padding-left: 100px;
+*{
+    background-color: #0e0530;
 }
 
-ul {
-    margin-left: 120px;
+.nav-item{
+    background-color: #16190e;
 }
 
-.home{
-    background-color: #071137;
+.nav-link{
+    background-color: #16190e;
 }
 
-.menu2{
+.dropmenu {
+    padding-right: 370px;
+}
+
+.gal {
+    background-color: #16190e;
+}
+
+.card-text {
     color: white;
-    padding: 160px 200px 190px 100px;
-}
-
-#para{
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-#firstbtn{
-    font-family: Tahoma, sans-serif;
-    font-size: 0.6em;
-    border-radius: 10px;
-    background-color: #20294b;
-    color: white;
-    border: none;
-    padding: 5px;
-}
-
-#secondbtn{
-    font-family: Tahoma, sans-serif;
-    font-size: 1em;
-    border-radius: 10px;
-    padding: 10px;
-    background-color: #10c268;
-    color: white;
-    border: none;
-}
-
-.services {
-    background-color: #ebeff2;
-}
-
-img {
-    margin-left: 850px;
-    margin-top: -550px;
-    padding: 20px;
-}
-
-.services2 {
-    padding-top: 100px;
-    padding-left: 50px;
-    margin-bottom: 50px;
-}
-
-#list {
-    padding-left: 90px;
-    background-color: #20294b;
-    width: 300px;
-    margin-left: 50px;
-    color: white;
-    border-radius: 20px;
-    padding: 40px;
-    margin-bottom: 150px;
 }
